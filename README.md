@@ -1,5 +1,3 @@
-<img width="1269" height="723" alt="image" src="https://github.com/user-attachments/assets/5fc51380-ef6d-4a84-bd3e-37bb5ec57f18" /># Wall - Desktop Multi-Video Player (Windows)
-
 A lightweight Windows desktop tool for playing and managing multiple videos simultaneously.
 
 ---
