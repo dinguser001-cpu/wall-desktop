@@ -1,5 +1,6 @@
 
 <img width="1200" height="800" alt="3" src="https://github.com/user-attachments/assets/06aff5d2-c0f7-462f-81d9-c572595f2fd5" />
+> 演示截图使用公开网络视频源，仅用于功能展示
 
 ---
 A lightweight Windows desktop tool for playing and managing multiple videos simultaneously.
