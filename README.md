@@ -56,7 +56,8 @@ Wall 是一款运行在 Windows 桌面端的多视频播放工具，
 ### 当前内测版（v0.1.0-beta）
 
 - Windows 安装包（exe）  
-👉 https://github.com/dinguser001-cpu/wall-desktop/releases/download/v0.1.0-beta/Video.Wall2-Setup-1.0.2.exe
+👉 https://github.com/dinguser001-cpu/wall-desktop/releases/download/v0.1.0-beta/Video.Wall-Setup-1.0.2.exe
+
 
 
 ---
