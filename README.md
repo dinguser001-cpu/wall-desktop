@@ -1,4 +1,4 @@
-# Wall - Desktop Multi-Video Player (Windows)
+<img width="1269" height="723" alt="image" src="https://github.com/user-attachments/assets/5fc51380-ef6d-4a84-bd3e-37bb5ec57f18" /># Wall - Desktop Multi-Video Player (Windows)
 
 A lightweight Windows desktop tool for playing and managing multiple videos simultaneously.
 
@@ -42,10 +42,17 @@ Wall 是一款运行在 Windows 桌面端的多视频播放工具，
 ---
 
 ## 📥 下载方式
-
-请前往 GitHub Release 页面下载最新版本：
-
 👉 点击右侧 **Releases** → 下载 exe 文件
+
+推荐通过 GitHub Releases 下载最新版本：
+
+👉 https://github.com/dinguser001-cpu/wall-desktop/releases
+
+### 当前内测版（v0.1.0-beta）
+
+- Windows 安装包（exe）  
+👉 https://github.com/dinguser001-cpu/wall-desktop/releases/download/v0.1.0-beta/Video.Wall2-Setup-1.0.2.exe
+
 
 ---
 
